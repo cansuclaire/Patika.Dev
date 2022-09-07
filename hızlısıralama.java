@@ -52,7 +52,7 @@ public class QuickSort {
                 Quicksort(numeros,j+1,der);
       }
     
-    public static void ImprimirVector(int arreglo[])
+    public static void (int arreglo[])
     {
         for(int i = 0; i < arreglo.length; i++)
         {
