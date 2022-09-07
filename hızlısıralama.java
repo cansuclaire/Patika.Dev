@@ -14,7 +14,7 @@ public class QuickSort {
         Quicksort(numeros, 0, numeros.length -1);
         
         
-         ImprimirVector(numeros);
+         Imp(numeros);
     }
     
     
